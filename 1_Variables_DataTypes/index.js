@@ -16,6 +16,8 @@ console.log("This will be goining to the ultimate javascript series");
 // Reserved words cannot be variable names. (can see in MDN)
 // Javascript follows camelCasing:- First word  will be small and rest of the words which 
 // come after it their first letter will be capital and rest will be small.
+// Single line comment
+/* Multiline comment*/
 
 
 
