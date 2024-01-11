@@ -1,0 +1,14 @@
+#heading{
+    color: rgb(61, 31, 232);
+    background-color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: rgb(73, 236, 158);
+}
+
+button{
+    background-color: rgb(204, 11, 17);
+    color: whitesmoke;
+}
