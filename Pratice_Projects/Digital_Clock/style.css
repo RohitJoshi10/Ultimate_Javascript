@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: #fff;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#clock{
+    margin: 10px;
+    padding: 20px;
+    background-color: orange;
+    font-size: 35px;
+    border-radius: 10px;
+    height: 40px;
+    width: 170px;
+}
+
+span{
+    font-size: 33px;
+}
+
